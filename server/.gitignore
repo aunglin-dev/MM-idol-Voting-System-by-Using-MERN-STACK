@@ -7,7 +7,8 @@ node_modules
 /coverage
 
 # production
-/build.rest
+/build
+*.rest
 # misc
 .DS_Store
 .env
